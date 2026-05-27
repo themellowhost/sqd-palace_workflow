@@ -1,0 +1,9 @@
+[submodule "SQDMetal"]
+	path = SQDMetal
+	url = https://github.com/sqdlab/SQDMetal.git
+[submodule "quantum-metal"]
+	path = quantum-metal
+	url = https://github.com/qiskit-community/qiskit-metal.git
+[submodule "palace"]
+	path = palace
+	url = https://github.com/awslabs/palace.git
